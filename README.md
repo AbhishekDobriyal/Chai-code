@@ -29,6 +29,7 @@ While building this HTML resume project, I learned and practiced the following c
    git clone https://github.com/AbhishekDobriyal/Chai-code.git
 
 2. Navigate to project folder
-   cd Chai-code
+   ```bash
+   cd Chai-code 
    
 4. Open resume.html in any browser
